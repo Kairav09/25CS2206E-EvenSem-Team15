@@ -63,7 +63,3 @@ The proposed prototype will be evaluated using simulated rural transport routes 
 ├── docs/              # Diagrams, wireframes, and project reports (Abstract, Presentation)
 └── tests/             # Any test scripts or QA files
 ```
-
-## Status
-
-Proposal stage — Abstract and Presentation are in `docs/`. Prototype implementation and evaluation on simulated rural transport routes are planned next.
